@@ -1,0 +1,6 @@
+data/test/test_user_data.json filter=lfs diff=lfs merge=lfs -text
+data/train/train_user_data.json filter=lfs diff=lfs merge=lfs -text
+feat/metaclip_text.pkl filter=lfs diff=lfs merge=lfs -text
+feat/metaclip_text_test.pkl filter=lfs diff=lfs merge=lfs -text
+new_model/cat_model_new.pkl filter=lfs diff=lfs merge=lfs -text
+new_model/lgb_base_5fold_oldclip_3000_fold1.pkl filter=lfs diff=lfs merge=lfs -text

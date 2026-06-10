@@ -1,0 +1,3 @@
+python3 train_lgb_5fold_base.py
+python3 train_cat_1fold_base.py
+python3 fusion.py
