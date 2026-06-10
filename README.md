@@ -1,5 +1,7 @@
 # SMP Challenge - Social Media Popularity Prediction
 
+> **Full code archive (with large files):** [Google Drive](https://drive.google.com/file/d/1draBuxT6FrzJaEO0_0idJeh_AtHlq9g5/view?usp=drive_link)
+
 Solution for SMP Challenge: predict social media image popularity scores using multi-modal data (user profiles, metadata, text tags, spatial-temporal info).
 
 ## Structure
@@ -63,4 +65,3 @@ python code/fusion.py                 # ensemble & submit
 
 Large files (`*.json`, `*.pkl`, `*.pkl` models) are tracked by Git LFS but not pushed to remote due to network limits. Prepare data locally to reproduce.
 
-**Full code archive (with large files):** [Google Drive](https://drive.google.com/file/d/1draBuxT6FrzJaEO0_0idJeh_AtHlq9g5/view?usp=drive_link)
